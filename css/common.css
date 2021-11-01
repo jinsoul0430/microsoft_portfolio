@@ -616,6 +616,7 @@ footer .footer_nav .footer_nav_list ul > li a {
         width: 48px;
         height: 48px;
         margin-top: 2px;
+        cursor: pointer;
     }
     header .main_nav ul { /* none!! */
         display: none;
